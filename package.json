@@ -10,7 +10,7 @@
     "plugins": "plugins"
   },
   "scripts": {
-    "build": "vite build",
+    "build": "next build",
     "start": "node index.js",
     "dev": "nodemon index.js",
     "check": "node -e \"require('syntax-error'); console.log('Syntax checker ready')\"",
