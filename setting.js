@@ -1,5 +1,3 @@
-//=====💫 sᴛᴀʀ  xᴅ🔥====
-
 module.exports = {
   BOT_NAME: 'Reivery', // ur bot name
   OWNER_NAME: 'Fizanieru', //your name
