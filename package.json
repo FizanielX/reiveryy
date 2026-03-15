@@ -46,6 +46,7 @@
   "license": "MIT",
   "author": "mr xdking",
   "dependencies": {
+    "next": "^13.0.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@hapi/boom": "^10.0.1",
     "@whiskeysockets/baileys": "^7.0.0-rc.9",
