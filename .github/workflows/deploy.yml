@@ -31,5 +31,8 @@ jobs:
       - name: Build Application
         run: npm run build
 
+      - name: Install dependencies
+        run: yarn install
+
       - name: Start Application
         run: npm start
