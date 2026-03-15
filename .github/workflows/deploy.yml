@@ -27,9 +27,6 @@ jobs:
 
       - name: Install dependencies
         run: npm install
-        
-      - name: Clean Next.js cache
-        run: rm -rf node_modules/.next-cache
 
       - name: Start Application
         run: npm start
